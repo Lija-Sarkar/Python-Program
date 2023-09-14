@@ -1,0 +1,12 @@
+x=int(input("Enter a number"))
+y=int(input("Enter another number"))
+sum=x+y
+substraction=x-y
+multiplication=x*y
+division=x/y
+Modulus=x%y
+print(sum)
+print(substraction)
+print(multiplication)
+print(division)
+print(Modulus)
